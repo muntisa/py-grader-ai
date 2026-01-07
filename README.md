@@ -1,4 +1,5 @@
 [![](https://img.shields.io/badge/View%20Project-Website-blue)](https://muntisa.github.io/py-grader-ai/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18177182.svg)](https://doi.org/10.5281/zenodo.18177182)
 
 # Py-Grader AI - AI-Powered Python Programming Exam Evaluation for Professors
 
